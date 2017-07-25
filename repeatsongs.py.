@@ -1,0 +1,14 @@
+print("Row "*3 + " your boat")
+print("Gently down the stream.")
+print("merrily "*4)
+print("life is but a dream.")
+
+print()
+print()
+
+print("and i was like")
+print("baby "*3)
+print("ohhhhhhhh")
+print("baby "*3)
+print("ohhhhhhhh")
+
